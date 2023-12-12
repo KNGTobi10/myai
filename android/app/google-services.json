@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300379450770",
+    "project_id": "united-base-405519",
+    "storage_bucket": "united-base-405519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300379450770:android:b060562db9fdc54f9de54b",
+        "android_client_info": {
+          "package_name": "com.mycompany.myai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSuM2O8O5F95svVceq5gB_ZI-ORL8R56M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
